@@ -16,7 +16,7 @@ Requirements
 
 ## Data
 
-The model is trained on a dataset of 3D and 4D medical scans, this medical dataset is provided by [title](http://medicaldecathlon.com/). However, you can use any 3D medical imaging data of your own to fine-tune the model and apply it to new cases.
+The model is trained on a dataset of 3D and 4D medical scans, this medical dataset is provided by [Medical Decathlon](http://medicaldecathlon.com/). However, you can use any 3D medical imaging data of your own to fine-tune the model and apply it to new cases.
 Usage
 
 ### To train the model on your own data, follow these steps:
